@@ -708,9 +708,6 @@ a { text-decoration: none; color: inherit; }
 .polaroid img {
   width: 100%; display: block;
   border-radius: var(--radius-sm);
-  object-fit: cover;
-  object-position: left center;
-  aspect-ratio: 4/3;
 }
 .polaroid-footer {
   padding: var(--s3) var(--s2) var(--s1);
